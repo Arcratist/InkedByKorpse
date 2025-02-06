@@ -1,5 +1,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://inkedbykorpse.com/index.html</loc>
+		<loc>https://www.inkedbykorpse.com/index.html</loc>
+	</url>
+	<url>
+		<loc>https://www.inkedbykorpse.com/privacy.html</loc>
+	</url>
+	<url>
+		<loc>https://www.inkedbykorpse.com/gallery.html</loc>
 	</url>
 </urlset>
