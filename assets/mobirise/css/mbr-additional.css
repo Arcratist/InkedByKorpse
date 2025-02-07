@@ -1444,46 +1444,81 @@ a {
 .cid-sFGJsyrALx .position {
   color: #bbbbbb;
 }
-.cid-uBtz9ZhxKf {
-  padding-top: 3rem;
-  padding-bottom: 2rem;
+.cid-uC9YGXVC29 {
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #111111;
 }
-.cid-uBtz9ZhxKf .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
+.cid-uC9YGXVC29 .showAlerts {
+  display: block !important;
 }
-.cid-uBtz9ZhxKf form.mbr-form {
-  border-radius: 10px;
-  background-color: #fafafa;
+.cid-uC9YGXVC29 .rowflexrev {
+  display: -webkit-flex;
 }
-@media (min-width: 992px) {
-  .cid-uBtz9ZhxKf form.mbr-form {
-    padding: 3rem 2rem;
-    width: 80%;
-  }
+.cid-uC9YGXVC29 .ws-form-alerts {
+  margin-top: 1rem;
 }
-@media (max-width: 991px) {
-  .cid-uBtz9ZhxKf form.mbr-form {
-    padding: 1rem;
-  }
+.cid-uC9YGXVC29 .title {
+  margin-bottom: 2rem;
 }
-.cid-uBtz9ZhxKf form.mbr-form .mbr-section-btn {
+.cid-uC9YGXVC29 .mbr-section-subtitle {
+  color: #fafafa;
+}
+.cid-uC9YGXVC29 textarea.form-control {
+  min-height: 188px;
+}
+.cid-uC9YGXVC29 LABEL {
+  color: #232323;
+  display: initial;
+}
+.cid-uC9YGXVC29 .mbr-section-terms {
   text-align: center;
-  width: 100%;
+  color: #fafafa;
+  margin-bottom: 0px;
 }
-.cid-uBtz9ZhxKf form.mbr-form .mbr-section-btn .btn {
-  width: 100%;
+.cid-uC9YGXVC29 .mbr-section-labels {
+  color: #fafafa;
+  padding: 0;
+  margin-bottom: .357em;
+  text-align: left;
 }
-.cid-uBtz9ZhxKf .mbr-section-title {
-  color: #6536e1;
+.cid-uC9YGXVC29 .mbr-section-autorespond {
+  text-align: left;
+  color: #232323;
+  margin-bottom: 0px;
 }
-.cid-uBtz9ZhxKf P {
+.cid-uC9YGXVC29 .mbr-section-gdpr {
   text-align: center;
+  color: #fafafa;
+  margin-bottom: 0px;
+}
+.cid-uC9YGXVC29 .alert {
+  margin-bottom: 0;
+}
+.cid-uC9YGXVC29 .alert-success {
+  background-color: #70c770;
+}
+.cid-uC9YGXVC29 .alert-danger {
+  background-color: #ff4a52;
+}
+.cid-uC9YGXVC29 .btn {
+  display: inline-flex;
+}
+.cid-uC9YGXVC29 .mbr-alert-success {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-uC9YGXVC29 .mbr-alert-danger {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-uC9YGXVC29 input,
+.cid-uC9YGXVC29 option,
+.cid-uC9YGXVC29 textarea {
   color: #000000;
 }
-.cid-uBtz9ZhxKf .mbr-section-subtitle {
-  color: #ffffff;
+.cid-uC9YGXVC29 H2 {
+  color: #6536e1;
 }
 .cid-uBtxYNBryb {
   padding-top: 30px;
