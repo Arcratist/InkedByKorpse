@@ -111,7 +111,7 @@
     "site_lang": "en",
     "witsec-search": false,
     "witsec-mailform-recaptcha-hidebadge": false,
-    "global_header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-MWHV37H8HJ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-MWHV37H8HJ');\n</script>\n"
+    "global_header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-MWHV37H8HJ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-MWHV37H8HJ');\n</script>\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5674136419374276\" crossorigin=\"anonymous\"></script>\n"
   },
   "pages": {
     "index.html": {
