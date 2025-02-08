@@ -48,8 +48,8 @@
       }
     ],
     "usedWebp": false,
-    "robotsSwitcher": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "robotsSwitcher": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "sitemapSwitcher": true,
     "siteUrl": "https://www.inkedbykorpse.com",
     "sitemapSwitcherAuto": false,
@@ -111,7 +111,7 @@
     "site_lang": "en",
     "witsec-search": false,
     "witsec-mailform-recaptcha-hidebadge": false,
-    "global_header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-MWHV37H8HJ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-MWHV37H8HJ');\n</script>\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5674136419374276\" crossorigin=\"anonymous\"></script>\n"
+    "global_header_custom": "<meta name=\"title\" content=\"Inked by Korpse\">\n<meta name=\"description\" content=\"Inked by Korpse is a Tattoo Artist operating in and around the Western Suburbs of Melbourne.\">\n<meta name=\"keywords\" content=\"inked, by, korpse, corpse, ink, tattoo, tattoos, melbourne, australia, suburbs, west, western, english, art, artist, instagram, supplies, needle, needles, cartridge, cartridges, pen, stencil\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"language\" content=\"English\">\n<meta name=\"revisit-after\" content=\"1 days\">\n<meta name=\"author\" content=\"Kyama Mahorin, Brett Smith\">\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-MWHV37H8HJ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-MWHV37H8HJ');\n</script>\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5674136419374276\" crossorigin=\"anonymous\"></script>\n"
   },
   "pages": {
     "index.html": {
