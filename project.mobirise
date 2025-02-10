@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "privacy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -577,7 +577,7 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#77608d"
+              "color": "#fafafa"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff"
