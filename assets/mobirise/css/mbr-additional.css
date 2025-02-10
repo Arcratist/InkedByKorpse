@@ -973,7 +973,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #77608d;
+  background-color: #ffffff;
 }
 .cid-uC7U3Uq01P button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1362,6 +1362,7 @@ a {
 }
 .cid-sFGJsyrALx .mbr-text {
   color: #ffffff;
+  text-align: left;
 }
 .cid-sFGJsyrALx .name {
   color: #ffffff;
@@ -1809,7 +1810,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #77608d;
+  background-color: #ffffff;
 }
 .cid-uC7U3Uq01P button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2261,7 +2262,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #77608d;
+  background-color: #ffffff;
 }
 .cid-uC7U3Uq01P button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3014,7 +3015,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #77608d;
+  background-color: #ffffff;
 }
 .cid-uC81bIuRzO button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3476,7 +3477,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #77608d;
+  background-color: #ffffff;
 }
 .cid-uCpg3HqA09 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3572,6 +3573,56 @@ a {
 }
 .cid-uCq1hoO5ZQ .mbr-text,
 .cid-uCq1hoO5ZQ .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-uCqbsN6Wtl {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+  background-color: #161616;
+}
+.cid-uCqbsN6Wtl .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uCqbsN6Wtl .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uCqbsN6Wtl .card-box {
+  z-index: 10;
+  position: relative;
+}
+@media (min-width: 1500px) {
+  .cid-uCqbsN6Wtl .container {
+    max-width: 1400px;
+  }
+}
+.cid-uCqbsN6Wtl .card {
+  margin: auto;
+}
+.cid-uCqbsN6Wtl .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #ffffff;
+  margin-bottom: 2rem;
+}
+.cid-uCqbsN6Wtl .item-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-uCqbsN6Wtl .row {
+  justify-content: center;
+}
+.cid-uCqbsN6Wtl .card-title,
+.cid-uCqbsN6Wtl .card-box {
+  color: #ffffff;
+}
+.cid-uCqbsN6Wtl H3 {
   color: #ffffff;
 }
 .cid-uCpg3HNWPm {
